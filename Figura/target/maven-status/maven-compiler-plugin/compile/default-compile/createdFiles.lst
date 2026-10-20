@@ -1,0 +1,11 @@
+com\mycompany\figura\FiguraPlana.class
+com\mycompany\figura\Figura2D.class
+com\mycompany\figura\FiguraCircular.class
+com\mycompany\figura\FiguraRecta.class
+com\mycompany\figura\SecondaryController.class
+module-info.class
+com\mycompany\figura\Test.class
+com\mycompany\figura\App.class
+com\mycompany\figura\PrimaryController.class
+com\mycompany\figura\Circulo.class
+com\mycompany\figura\TrianguloRect.class
